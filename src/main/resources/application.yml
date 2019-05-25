@@ -1,0 +1,7 @@
+saml:
+  metadata:
+    scheme: "http"
+    server-name: "localhost"
+    server-port: 8080
+    context-path: ""
+    include-server-port-in-request-url: true

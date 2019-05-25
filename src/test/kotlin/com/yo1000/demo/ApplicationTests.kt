@@ -1,4 +1,4 @@
-package com.yo1000.springbootsecuritysamlonelogindemo
+package com.yo1000.demo
 
 import org.junit.Test
 import org.junit.runner.RunWith
@@ -7,7 +7,7 @@ import org.springframework.test.context.junit4.SpringRunner
 
 @RunWith(SpringRunner::class)
 @SpringBootTest
-class SpringBootSecuritySamlOneloginDemoApplicationTests {
+class ApplicationTests {
 
 	@Test
 	fun contextLoads() {
